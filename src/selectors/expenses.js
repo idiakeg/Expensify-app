@@ -19,4 +19,4 @@ const getVisibleExpenses = (expenses, { text, sortBy, startDate, endDate}) => {
 }
 
 export default getVisibleExpenses
-// we will call the default export selectExpenses in the expense list
+// we will call the default export selectExpenses in the expense list and in the expense summary file
